@@ -1,0 +1,25 @@
+.navContainer {
+    width: 100%;
+    background-color: rgba(243, 223, 187, 0.623);
+    height: 6vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .containerCategories {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10px;
+    letter-spacing: 4.8px;
+    word-spacing: 0px;
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: uppercase;
+  }
+  
